@@ -1,0 +1,14 @@
+name: 156FinalProject
+title: 156FinalProject
+username:
+account: abimm117
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5301158
+bundleId: 5353164
+url: https://abimm117.shinyapps.io/156FinalProject/
+when: 1639099303.16604
+lastSyncTime: 1639099303.16605
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData|final_project.R|FinalProjectWriteUp.pdf
